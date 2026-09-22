@@ -81,7 +81,7 @@ Booking Records – Store booking information for future reference.
 
 Admin Functions – Allow the administrator to manage movies, shows, seats, and bookings.
 
-Non-Functional Requirements:
+- Non-Functional Requirements:
 
 User-friendly: The system should be simple to operate.
 
