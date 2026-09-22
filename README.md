@@ -25,75 +25,75 @@ The Online Cinema Seat Booking System is a Java-based application designed to au
 
     .To apply Java programming concepts in a real-world application.
 6. REQUIREMENTS:
-Functional Requirements:
+   Functional Requirements:
 
-- Hardware Requirements:
+  - Hardware Requirements:
    
-Processor: Intel Core i3 or equivalent
+   Processor: Intel Core i3 or equivalent
 
-RAM: Minimum 4 GB
+   RAM: Minimum 4 GB
 
-Hard Disk: Minimum 500 MB free space
+   Hard Disk: Minimum 500 MB free space
 
-Keyboard and Mouse
+   Keyboard and Mouse
 
-Monitor
+   Monitor
 
-- Software Requirements:
+ - Software Requirements:
    
-Operating System: Windows / Linux / macOS
+  Operating System: Windows / Linux / macOS
 
-Programming Language: Java
+  Programming Language: Java
 
-JDK: JDK 8 or above
+  JDK: JDK 8 or above
 
-IDE: Eclipse / IntelliJ IDEA / NetBeans / VS Code
+  IDE: Eclipse / IntelliJ IDEA / NetBeans / VS Code
 
-Database: MySQL (if database connectivity is used)
+  Database: MySQL (if database connectivity is used)
 
-JDBC: For connecting Java with MySQL
+  JDBC: For connecting Java with MySQL
 
-MySQL Connector/J: Required for JDBC connectivity
+  MySQL Connector/J: Required for JDBC connectivity
 
-- Functional Requirements:
+ - Functional Requirements:
    
-The system should provide the following features:
+  The system should provide the following features:
 
-Movie Selection – Display the available movies.
+  Movie Selection – Display the available movies.
 
-Show Timing – Display available show dates and timings.
+  Show Timing – Display available show dates and timings.
 
-Seat Display – Display the cinema seat arrangement.
+  Seat Display – Display the cinema seat arrangement.
 
-Seat Selection – Allow users to select available seats.
+  Seat Selection – Allow users to select available seats.
 
-Seat Availability – Clearly identify booked and available seats.
+  Seat Availability – Clearly identify booked and available seats.
 
-Booking – Reserve the selected seats.
+  Booking – Reserve the selected seats.
 
-Booking Confirmation – Display booking details after successful reservation.
+  Booking Confirmation – Display booking details after successful reservation.
 
-Cancellation – Allow users to cancel a booking.
+  Cancellation – Allow users to cancel a booking.
 
-Ticket Calculation – Calculate the total ticket price based on the number of seats.
+  Ticket Calculation – Calculate the total ticket price based on the number of seats.
 
-Booking Records – Store booking information for future reference.
+  Booking Records – Store booking information for future reference.
 
-Admin Functions – Allow the administrator to manage movies, shows, seats, and bookings.
+  Admin Functions – Allow the administrator to manage movies, shows, seats, and bookings.
 
-- Non-Functional Requirements:
+ - Non-Functional Requirements:
 
-User-friendly: The system should be simple to operate.
+  User-friendly: The system should be simple to operate.
 
-Reliable: It should prevent the same seat from being booked twice.
+  Reliable: It should prevent the same seat from being booked twice.
 
-Efficient: Booking and seat-selection operations should be fast.
+  Efficient: Booking and seat-selection operations should be fast.
 
-Secure: Booking and user information should be protected.
+  Secure: Booking and user information should be protected.
 
-Maintainable: The Java program should be organized into separate classes and methods.
+  Maintainable: The Java program should be organized into separate classes and methods.
 
-Scalable: The system should allow additional movies, screens, and seats to be added later.
+  Scalable: The system should allow additional movies, screens, and seats to be added later.
 
 
 
